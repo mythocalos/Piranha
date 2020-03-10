@@ -1,4 +1,5 @@
-> ## Important!
+![No longer maintained](https://img.shields.io/badge/Maintenance-OFF-red.svg)
+## [DEPRECATED] This repository is no longer maintained
 > This is the **old legacy version** of Piranha CMS. We keep the source code available if you have active projects developed on this code base and want to branch it or download it to make modifications to it, however we don't release new versions of it anymore. For the new, and up to date version of Piranha, please refer to <a href="https://github.com/piranhacms/piranha.core">Piranha.Core</a>.
 
 # Welcome to Piranha CMS
